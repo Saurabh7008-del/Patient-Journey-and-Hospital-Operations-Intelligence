@@ -1,0 +1,11 @@
+department_id,department_name,department_type,bed_capacity,operating_hours
+1,Emergency,Emergency Care,40,24x7
+2,General Medicine,Inpatient,60,24x7
+3,Cardiology,Specialty,30,8:00-20:00
+4,Orthopedics,Specialty,35,8:00-18:00
+5,Pediatrics,Specialty,25,8:00-18:00
+6,Neurology,Specialty,20,8:00-18:00
+7,Surgery,Inpatient,45,24x7
+8,Radiology,Diagnostic,0,24x7
+9,ICU,Critical Care,30,24x7
+10,Outpatient,Outpatient,0,9:00-17:00

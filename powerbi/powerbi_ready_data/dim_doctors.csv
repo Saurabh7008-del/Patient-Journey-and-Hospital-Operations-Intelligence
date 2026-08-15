@@ -1,0 +1,161 @@
+doctor_id,doctor_name,department_id,specialization,experience_years,shift_type
+1,Dr. Imran Bhatt,1,Emergency Medicine,23,Day
+2,Dr. Anika Mehta,8,Diagnostic Imaging,32,Rotational
+3,Dr. Anika Kapoor,7,General Surgeon,30,Rotational
+4,Dr. Saanvi Iyer,5,Neonatology,17,Day
+5,Dr. Aadhya Sharma,5,Pediatrician,27,Rotational
+6,Dr. Arjun Verma,9,Intensivist,12,Rotational
+7,Dr. Dev Joshi,1,Emergency Medicine,16,Day
+8,Dr. Riya Kumar,7,Laparoscopic Surgery,19,Rotational
+9,Dr. Karan Iyer,3,Interventional Cardiology,33,Day
+10,Dr. Zara Singh,1,Trauma Care,29,Rotational
+11,Dr. Farhan Iyer,6,Neurosurgery,17,Night
+12,Dr. Sneha Bhatt,10,Consultant,23,Night
+13,Dr. Sneha Mehta,8,Diagnostic Imaging,7,Day
+14,Dr. Reyansh Patel,8,Diagnostic Imaging,28,Rotational
+15,Dr. Rohan Rao,8,Radiologist,19,Day
+16,Dr. Riya Chatterjee,8,Radiologist,19,Day
+17,Dr. Neha Patel,6,Neurologist,27,Day
+18,Dr. Aisha Verma,2,Internal Medicine,22,Rotational
+19,Dr. Aadhya Gupta,9,Critical Care,3,Day
+20,Dr. Aadhya Menon,5,Pediatrician,10,Rotational
+21,Dr. Kiara Bose,6,Neurologist,7,Night
+22,Dr. Sneha Bhatt,4,Joint Replacement,25,Day
+23,Dr. Priya Reddy,2,General Physician,2,Day
+24,Dr. Dev Menon,10,Consultant,7,Day
+25,Dr. Ananya Malhotra,8,Radiologist,21,Night
+26,Dr. Ananya Joshi,7,General Surgeon,24,Rotational
+27,Dr. Ishita Mehta,5,Neonatology,18,Day
+28,Dr. Arnav Reddy,9,Intensivist,30,Rotational
+29,Dr. Vihaan Verma,6,Neurologist,32,Day
+30,Dr. Navya Bose,5,Pediatrician,5,Rotational
+31,Dr. Sai Kumar,5,Neonatology,33,Rotational
+32,Dr. Karan Nair,3,Interventional Cardiology,21,Rotational
+33,Dr. Karan Rao,1,Trauma Care,22,Night
+34,Dr. Meera Das,6,Neurosurgery,4,Rotational
+35,Dr. Amit Iyer,9,Critical Care,22,Day
+36,Dr. Priya Chawla,1,Emergency Medicine,25,Day
+37,Dr. Aarav Malhotra,9,Critical Care,20,Day
+38,Dr. Sneha Joshi,9,Intensivist,3,Night
+39,Dr. Kavya Mehta,3,Cardiologist,18,Rotational
+40,Dr. Saanvi Chatterjee,7,Laparoscopic Surgery,32,Night
+41,Dr. Sai Das,2,Internal Medicine,25,Rotational
+42,Dr. Vihaan Chatterjee,8,Radiologist,5,Day
+43,Dr. Pooja Verma,8,Radiologist,33,Rotational
+44,Dr. Dev Mehta,4,Joint Replacement,33,Day
+45,Dr. Ishita Sharma,1,Emergency Medicine,6,Day
+46,Dr. Krishna Kumar,10,General Physician,28,Rotational
+47,Dr. Krishna Rao,5,Neonatology,14,Rotational
+48,Dr. Kavya Gupta,9,Intensivist,21,Night
+49,Dr. Riya Gupta,7,Laparoscopic Surgery,16,Day
+50,Dr. Krishna Das,8,Diagnostic Imaging,27,Night
+51,Dr. Ishita Iyer,8,Diagnostic Imaging,34,Day
+52,Dr. Diya Bose,2,Internal Medicine,28,Rotational
+53,Dr. Imran Das,4,Orthopedic Surgeon,32,Rotational
+54,Dr. Navya Rao,5,Pediatrician,33,Day
+55,Dr. Neha Das,5,Neonatology,4,Day
+56,Dr. Diya Sharma,1,Emergency Medicine,9,Day
+57,Dr. Reyansh Menon,6,Neurologist,25,Rotational
+58,Dr. Anika Kumar,2,Internal Medicine,21,Night
+59,Dr. Priya Malhotra,8,Diagnostic Imaging,2,Rotational
+60,Dr. Aditya Verma,7,General Surgeon,4,Night
+61,Dr. Diya Kumar,10,Consultant,18,Night
+62,Dr. Kavya Kumar,8,Radiologist,21,Day
+63,Dr. Navya Bose,4,Orthopedic Surgeon,6,Rotational
+64,Dr. Reyansh Das,10,General Physician,6,Day
+65,Dr. Amit Kumar,5,Neonatology,5,Night
+66,Dr. Meera Reddy,4,Orthopedic Surgeon,20,Night
+67,Dr. Aisha Rao,10,General Physician,1,Night
+68,Dr. Amit Singh,4,Joint Replacement,20,Rotational
+69,Dr. Nikhil Mehta,1,Trauma Care,17,Day
+70,Dr. Diya Sharma,5,Neonatology,16,Night
+71,Dr. Kiara Kapoor,8,Diagnostic Imaging,24,Day
+72,Dr. Aarav Chawla,2,Internal Medicine,18,Night
+73,Dr. Amit Gupta,5,Neonatology,25,Day
+74,Dr. Saanvi Das,2,Internal Medicine,26,Day
+75,Dr. Saanvi Gupta,7,Laparoscopic Surgery,32,Day
+76,Dr. Kavya Bhatt,5,Neonatology,28,Day
+77,Dr. Arjun Reddy,4,Joint Replacement,18,Day
+78,Dr. Rohan Bhatt,3,Interventional Cardiology,17,Night
+79,Dr. Arnav Joshi,6,Neurosurgery,9,Night
+80,Dr. Farhan Malhotra,7,Laparoscopic Surgery,21,Day
+81,Dr. Saanvi Gupta,10,Consultant,5,Day
+82,Dr. Neha Bose,5,Pediatrician,32,Day
+83,Dr. Imran Nair,2,Internal Medicine,29,Night
+84,Dr. Rohan Sharma,9,Intensivist,5,Day
+85,Dr. Sai Das,7,Laparoscopic Surgery,27,Day
+86,Dr. Amit Patel,8,Radiologist,4,Day
+87,Dr. Saanvi Kapoor,1,Emergency Medicine,25,Night
+88,Dr. Priya Kapoor,4,Orthopedic Surgeon,3,Day
+89,Dr. Aisha Rao,8,Diagnostic Imaging,17,Night
+90,Dr. Ishaan Menon,9,Critical Care,23,Night
+91,Dr. Pooja Reddy,5,Neonatology,25,Rotational
+92,Dr. Neha Singh,9,Intensivist,15,Night
+93,Dr. Zara Reddy,9,Intensivist,32,Night
+94,Dr. Imran Bose,4,Orthopedic Surgeon,27,Day
+95,Dr. Krishna Iyer,9,Intensivist,8,Rotational
+96,Dr. Amit Sharma,3,Cardiologist,23,Night
+97,Dr. Diya Mehta,3,Interventional Cardiology,25,Day
+98,Dr. Aisha Menon,7,Laparoscopic Surgery,12,Night
+99,Dr. Reyansh Chawla,7,Laparoscopic Surgery,26,Day
+100,Dr. Vihaan Joshi,2,Internal Medicine,31,Night
+101,Dr. Nikhil Chawla,9,Intensivist,28,Rotational
+102,Dr. Ishaan Chawla,2,General Physician,26,Rotational
+103,Dr. Arjun Singh,9,Intensivist,22,Rotational
+104,Dr. Priya Rao,1,Emergency Medicine,10,Night
+105,Dr. Aarav Malhotra,8,Radiologist,28,Night
+106,Dr. Aadhya Bhatt,8,Diagnostic Imaging,13,Rotational
+107,Dr. Anika Patel,8,Diagnostic Imaging,19,Day
+108,Dr. Yash Verma,7,General Surgeon,11,Rotational
+109,Dr. Arnav Joshi,5,Neonatology,11,Night
+110,Dr. Myra Reddy,8,Diagnostic Imaging,6,Day
+111,Dr. Aarav Bose,3,Interventional Cardiology,33,Day
+112,Dr. Farhan Nair,8,Diagnostic Imaging,6,Rotational
+113,Dr. Vivaan Gupta,6,Neurologist,3,Day
+114,Dr. Aditya Kapoor,5,Neonatology,32,Day
+115,Dr. Yash Iyer,6,Neurologist,19,Day
+116,Dr. Arnav Iyer,6,Neurosurgery,15,Day
+117,Dr. Kiara Das,1,Trauma Care,26,Day
+118,Dr. Karan Chawla,2,General Physician,14,Rotational
+119,Dr. Vivaan Iyer,3,Interventional Cardiology,5,Day
+120,Dr. Diya Rao,2,General Physician,25,Rotational
+121,Dr. Imran Malhotra,5,Neonatology,6,Rotational
+122,Dr. Saanvi Menon,7,Laparoscopic Surgery,19,Day
+123,Dr. Sneha Singh,7,Laparoscopic Surgery,33,Day
+124,Dr. Navya Gupta,5,Pediatrician,32,Night
+125,Dr. Farhan Sharma,9,Critical Care,13,Day
+126,Dr. Reyansh Nair,6,Neurosurgery,27,Day
+127,Dr. Diya Gupta,1,Emergency Medicine,21,Rotational
+128,Dr. Aarav Bhatt,8,Diagnostic Imaging,17,Rotational
+129,Dr. Aisha Gupta,6,Neurosurgery,5,Rotational
+130,Dr. Diya Singh,7,Laparoscopic Surgery,13,Day
+131,Dr. Farhan Bhatt,6,Neurosurgery,23,Night
+132,Dr. Dev Das,6,Neurologist,34,Rotational
+133,Dr. Anika Iyer,1,Trauma Care,1,Day
+134,Dr. Tanvi Kapoor,6,Neurologist,25,Night
+135,Dr. Vivaan Joshi,8,Diagnostic Imaging,29,Day
+136,Dr. Vihaan Joshi,4,Joint Replacement,33,Day
+137,Dr. Nikhil Gupta,7,General Surgeon,15,Night
+138,Dr. Navya Gupta,1,Emergency Medicine,5,Day
+139,Dr. Vikram Bose,4,Orthopedic Surgeon,10,Day
+140,Dr. Vihaan Patel,5,Pediatrician,29,Rotational
+141,Dr. Aisha Rao,10,General Physician,30,Rotational
+142,Dr. Sai Kumar,3,Cardiologist,22,Night
+143,Dr. Rahul Bhatt,3,Cardiologist,5,Rotational
+144,Dr. Saanvi Menon,5,Pediatrician,5,Rotational
+145,Dr. Rahul Reddy,10,Consultant,17,Day
+146,Dr. Aisha Bose,9,Intensivist,21,Day
+147,Dr. Sneha Sharma,1,Emergency Medicine,2,Day
+148,Dr. Sanjay Das,3,Cardiologist,24,Day
+149,Dr. Sai Chatterjee,9,Critical Care,19,Rotational
+150,Dr. Nikhil Gupta,1,Emergency Medicine,1,Day
+151,Dr. Karan Gupta,9,Critical Care,4,Night
+152,Dr. Arnav Mehta,3,Cardiologist,16,Day
+153,Dr. Aarav Menon,10,General Physician,25,Day
+154,Dr. Reyansh Das,3,Cardiologist,29,Rotational
+155,Dr. Krishna Bose,5,Pediatrician,15,Day
+156,Dr. Arnav Kapoor,7,Laparoscopic Surgery,11,Day
+157,Dr. Navya Kumar,2,Internal Medicine,33,Day
+158,Dr. Pooja Malhotra,6,Neurologist,16,Night
+159,Dr. Nikhil Sharma,6,Neurosurgery,11,Night
+160,Dr. Kavya Gupta,8,Diagnostic Imaging,16,Night

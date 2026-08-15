@@ -1,0 +1,26 @@
+readmission_id,patient_id,previous_encounter_id,readmission_encounter_id,previous_discharge_date,readmission_date,days_between_visits,readmission_flag,readmission_reason
+1,196,181422,24659,2024-04-16,2024-04-22,6,1,Incomplete recovery
+2,387,66120,20542,2024-01-22,2024-02-01,10,1,Scheduled follow-up admission
+3,413,3757,134416,2024-05-12,2024-05-27,15,1,Post-surgical complication
+4,475,68289,92598,2025-09-30,2025-10-10,10,1,Post-surgical complication
+5,616,66976,78404,2024-07-15,2024-08-05,21,1,Infection recurrence
+6,628,116255,97490,2024-02-11,2024-03-01,19,1,Medication non-compliance
+7,685,168883,54877,2025-02-12,2025-03-14,30,1,Chronic condition flare-up
+8,717,143756,3641,2025-01-23,2025-02-23,31,0,Not a readmission (>30 days)
+9,740,56740,147664,2024-11-14,2024-12-17,33,0,Not a readmission (>30 days)
+10,740,195992,166931,2025-04-25,2025-05-12,17,1,Infection recurrence
+11,743,33875,69474,2024-12-04,2024-12-10,6,1,Post-surgical complication
+12,808,192130,138298,2025-03-04,2025-03-21,17,1,Unrelated new condition
+13,820,191581,15982,2025-01-22,2025-01-30,8,1,Medication non-compliance
+14,835,154478,68889,2025-07-26,2025-07-26,0,1,Medication non-compliance
+15,858,61716,199216,2024-11-26,2024-12-16,20,1,Infection recurrence
+16,880,42306,42373,2025-01-02,2025-01-23,21,1,Chronic condition flare-up
+17,943,94148,114049,2024-06-16,2024-07-21,35,0,Not a readmission (>30 days)
+18,988,155106,140576,2025-03-11,2025-04-22,42,0,Not a readmission (>30 days)
+19,1010,61712,190556,2025-03-12,2025-03-19,7,1,Medication non-compliance
+20,1158,163253,78777,2025-06-23,2025-06-26,3,1,Infection recurrence
+21,1221,93282,153056,2025-05-04,2025-06-14,41,0,Not a readmission (>30 days)
+22,1235,199422,198306,2024-12-27,2025-01-25,29,1,Scheduled follow-up admission
+23,1336,168285,56524,2025-03-04,2025-04-04,31,0,Not a readmission (>30 days)
+24,1336,56524,30169,2025-04-06,2025-05-19,43,0,Not a readmission (>30 days)
+25,1369,89208,34061,2024-07-09,2024-08-15,37,0,Not a readmission (>30 days)

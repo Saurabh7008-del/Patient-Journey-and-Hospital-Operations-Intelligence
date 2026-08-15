@@ -1,0 +1,26 @@
+admission_id,encounter_id,patient_id,admission_date,discharge_date,length_of_stay,admission_type,discharge_status,discharge_delay_hours
+1,2,19476,2025-03-10,2025-03-11,1.3,Elective,Discharged,2.5
+2,3,75157,2025-08-28,2025-09-03,6.1,Maternity,Discharged,5.6
+3,10,16143,2024-02-11,2024-02-14,3.4,Emergency,Discharged,1.4
+4,15,46472,2025-11-21,2025-11-22,1.3,Emergency,Deceased,16.1
+5,22,30010,2025-10-13,2025-10-17,4.4,Elective,Discharged,1.5
+6,27,56190,2025-03-08,2025-03-09,1.5,Emergency,Discharged,1.8
+7,43,6785,2024-03-15,2024-03-18,3.2,Transfer,Discharged,1.6
+8,48,46330,2025-12-08,2025-12-08,0.5,Maternity,Discharged,10.2
+9,61,714,2025-02-27,2025-03-03,4.5,Emergency,Discharged,1.9
+10,72,71681,2025-07-16,2025-07-18,2.2,Emergency,Discharged,4.2
+11,84,44673,2025-01-22,2025-01-29,7.1,Emergency,Discharged,6.0
+12,89,10738,2024-12-30,2025-01-01,2.3,Transfer,Left Against Medical Advice,0.1
+13,96,51676,2025-10-02,2025-10-03,1.8,Elective,Discharged,2.6
+14,97,72446,2024-07-17,2024-07-19,2.6,Emergency,Discharged,1.7
+15,101,69589,2024-10-19,2024-10-21,2.3,Transfer,Discharged,2.2
+16,102,72652,2025-02-24,2025-03-02,6.7,Elective,Discharged,0.4
+17,106,61813,2024-01-10,2024-01-12,2.1,Emergency,Deceased,0.0
+18,107,5838,2024-02-27,2024-03-04,6.4,Elective,Discharged,0.8
+19,108,23630,2024-05-18,2024-05-20,2.1,Emergency,Left Against Medical Advice,0.0
+20,111,27412,2024-11-04,2024-11-13,9.6,Emergency,Discharged,15.0
+21,114,77629,2025-09-03,2025-09-07,4.1,Emergency,Discharged,0.4
+22,128,63153,2025-10-29,2025-10-30,1.0,Emergency,Discharged,13.4
+23,138,2768,2024-04-25,2024-04-25,0.8,Emergency,Discharged,4.2
+24,147,2053,2025-02-22,2025-02-26,4.7,Emergency,Discharged,2.0
+25,149,61776,2024-05-26,2024-05-30,4.5,Transfer,Discharged,0.1

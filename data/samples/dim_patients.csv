@@ -1,0 +1,26 @@
+patient_id,age,gender,city,insurance_type,patient_category,registration_date
+1,1,Male,Mumbai,Government Scheme,Child,2025-07-03
+2,8,Male,Bhopal,Corporate Insurance,Child,2024-04-21
+3,25,Male,Pune,Self-Pay,Maternity,2024-01-17
+4,23,Female,Indore,Government Scheme,Maternity,2024-01-06
+5,80,Male,Chennai,Private Insurance,Senior Citizen,2024-11-15
+6,80,Male,Mumbai,Private Insurance,Senior Citizen,2025-01-24
+7,81,Female,Kanpur,Government Scheme,Senior Citizen,2024-02-11
+8,61,Female,Lucknow,Government Scheme,Senior Citizen,2024-07-31
+9,53,Female,Mumbai,Government Scheme,General,2024-03-23
+10,62,Male,Bengaluru,Corporate Insurance,Senior Citizen,2025-08-28
+11,39,Female,Varanasi,Government Scheme,General,2025-05-15
+12,64,Female,Ahmedabad,Government Scheme,Senior Citizen,2025-01-14
+13,76,Male,Lucknow,Government Scheme,Senior Citizen,2024-11-14
+14,73,Male,Varanasi,Private Insurance,Senior Citizen,2024-12-08
+15,58,Male,Ahmedabad,Self-Pay,Chronic Care,2025-10-25
+16,5,Male,Patna,Government Scheme,Child,2025-10-06
+17,69,Male,Delhi,Government Scheme,Senior Citizen,2025-02-22
+18,35,Male,Delhi,Government Scheme,Maternity,2024-08-01
+19,71,Female,Indore,Self-Pay,Senior Citizen,2024-09-24
+20,51,Female,Delhi,Government Scheme,General,2025-01-30
+21,84,Female,Ahmedabad,Self-Pay,Senior Citizen,2025-05-09
+22,32,Other,Ahmedabad,Self-Pay,General,2024-12-21
+23,89,Male,Hyderabad,Government Scheme,Senior Citizen,2025-06-24
+24,81,Female,Mumbai,Corporate Insurance,Senior Citizen,2024-02-23
+25,31,Male,Jaipur,Private Insurance,General,2024-09-25

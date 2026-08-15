@@ -1,0 +1,26 @@
+doctor_id,doctor_name,department_id,specialization,experience_years,shift_type
+1,Dr. Imran Bhatt,1,Emergency Medicine,23,Day
+2,Dr. Anika Mehta,8,Diagnostic Imaging,32,Rotational
+3,Dr. Anika Kapoor,7,General Surgeon,30,Rotational
+4,Dr. Saanvi Iyer,5,Neonatology,17,Day
+5,Dr. Aadhya Sharma,5,Pediatrician,27,Rotational
+6,Dr. Arjun Verma,9,Intensivist,12,Rotational
+7,Dr. Dev Joshi,1,Emergency Medicine,16,Day
+8,Dr. Riya Kumar,7,Laparoscopic Surgery,19,Rotational
+9,Dr. Karan Iyer,3,Interventional Cardiology,33,Day
+10,Dr. Zara Singh,1,Trauma Care,29,Rotational
+11,Dr. Farhan Iyer,6,Neurosurgery,17,Night
+12,Dr. Sneha Bhatt,10,Consultant,23,Night
+13,Dr. Sneha Mehta,8,Diagnostic Imaging,7,Day
+14,Dr. Reyansh Patel,8,Diagnostic Imaging,28,Rotational
+15,Dr. Rohan Rao,8,Radiologist,19,Day
+16,Dr. Riya Chatterjee,8,Radiologist,19,Day
+17,Dr. Neha Patel,6,Neurologist,27,Day
+18,Dr. Aisha Verma,2,Internal Medicine,22,Rotational
+19,Dr. Aadhya Gupta,9,Critical Care,3,Day
+20,Dr. Aadhya Menon,5,Pediatrician,10,Rotational
+21,Dr. Kiara Bose,6,Neurologist,7,Night
+22,Dr. Sneha Bhatt,4,Joint Replacement,25,Day
+23,Dr. Priya Reddy,2,General Physician,2,Day
+24,Dr. Dev Menon,10,Consultant,7,Day
+25,Dr. Ananya Malhotra,8,Radiologist,21,Night
